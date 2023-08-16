@@ -1,6 +1,0 @@
-#to ignore the build files
-*
-#to not ignore the C files
-!*/**.c
-!.gitignore
-!.readme.md
